@@ -1,0 +1,8 @@
+<!--index.wxml-->
+<view class="container">
+  <view class="about">
+  <text>产品名称：test</text>
+  <text>版本号：{{v}}</text>
+  <text>数据来源：和风天气</text>
+  </view>
+</view>
